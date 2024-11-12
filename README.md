@@ -4,4 +4,4 @@ NIM : 220040121
 
 # Screenshot
 Berikut adalah tampilan halaman utama aplikasi:
-![WhatsApp Layout](images/layout.png)
+![Layout](images/layout.png)
