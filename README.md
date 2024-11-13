@@ -1,6 +1,6 @@
 # Identitas Diri
-- NAMA: Ni Putu Desy Aristya Dewi
-- NIM : 220040121
+- NAMA: Gusti Ayu Tristania Dianti 
+- NIM : 220040082
 
 # Screenshot
 Berikut adalah tampilan halaman utama aplikasi:
